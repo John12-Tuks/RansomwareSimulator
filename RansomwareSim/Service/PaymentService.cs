@@ -19,7 +19,7 @@ namespace RansomwareSim.Service
             client.DefaultRequestHeaders.Authorization =
                 new System.Net.Http.Headers.AuthenticationHeaderValue(
                     "Bearer",
-                    "enter your payment service");
+                    "enter your payment service api");
 
             var request = new
             {
@@ -30,7 +30,7 @@ namespace RansomwareSim.Service
             var json = JsonSerializer.Serialize(request);
 
             var response = await client.PostAsync(
-                "enter your own payment services",
+                "enter your own payment services api",
                 new StringContent(json, Encoding.UTF8, "application/json"));
 
             var responseJson = await response.Content.ReadAsStringAsync();
@@ -56,7 +56,7 @@ namespace RansomwareSim.Service
                     "enter own api key");
 
             var response = await client.GetAsync(
-                $"enter your own services");
+                $"enter your own services api key");
 
             string json = await response.Content.ReadAsStringAsync();
 
