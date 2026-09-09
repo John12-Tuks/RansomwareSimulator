@@ -19,7 +19,7 @@ namespace RansomwareSim.Service
             client.DefaultRequestHeaders.Authorization =
                 new System.Net.Http.Headers.AuthenticationHeaderValue(
                     "Bearer",
-                    "sk_test_7fa4b0f5e087b85db0a0b84ad8f2b7b835033e35");
+                    "enter your payment service");
 
             var request = new
             {
@@ -30,7 +30,7 @@ namespace RansomwareSim.Service
             var json = JsonSerializer.Serialize(request);
 
             var response = await client.PostAsync(
-                "https://api.paystack.co/transaction/initialize",
+                "enter your own payment services",
                 new StringContent(json, Encoding.UTF8, "application/json"));
 
             var responseJson = await response.Content.ReadAsStringAsync();
@@ -53,10 +53,10 @@ namespace RansomwareSim.Service
             client.DefaultRequestHeaders.Authorization =
                 new AuthenticationHeaderValue(
                     "Bearer",
-                    "sk_test_7fa4b0f5e087b85db0a0b84ad8f2b7b835033e35");
+                    "enter own api key");
 
             var response = await client.GetAsync(
-                $"https://api.paystack.co/transaction/verify/{reference}");
+                $"enter your own services");
 
             string json = await response.Content.ReadAsStringAsync();
 
