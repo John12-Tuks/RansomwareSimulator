@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|c:\\users\\emeris\\source\\repos\\ransomwaresim\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|c:\\users\\emeris\\source\\repos\\ransomwaresim\\model\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|solutionrelative:model\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|c:\\users\\emeris\\source\\repos\\ransomwaresim\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|solutionrelative:service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|c:\\users\\emeris\\source\\repos\\ransomwaresim\\service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|solutionrelative:service\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|c:\\users\\emeris\\source\\repos\\ransomwaresim\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|c:\\users\\emeris\\source\\repos\\ransomwaresim\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFF760B-1D68-6E38-7FEB-B026155F0EAF}|RansomwareSim.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-15T08:26:17.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\model\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "model\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\model\\PaymentResponse.cs",
+              "RelativeToolTip": "model\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:33:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Service\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\Service\\PaymentService.cs",
+              "RelativeToolTip": "Service\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:56:24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:26:16.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\Service\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Service\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\Service\\EncryptionService.cs",
+              "RelativeToolTip": "Service\\EncryptionService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T11:00:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\RansomwareSim\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:37:16.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
