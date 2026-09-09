@@ -15,6 +15,14 @@ The simulator:
 
 No real ransom payments are processed.
 
+## Setup
+
+Before running the simulator:
+
+* Manually enter the **test file path** in `MainWindow.xaml.cs`.
+* Add your **Paystack or Stripe test API keys** in the designated placeholders within the payment service.
+* Use **test/sandbox API credentials only**.
+
 ## Safety Scope
 
 This project is strictly intended for **educational and authorized cybersecurity testing**.
